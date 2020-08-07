@@ -1,6 +1,6 @@
 ### Hi there! I am [Qian](https://qian.onrender.com/)
 
-- 🔭 I’m currently working on keeping work-life balance
+- 🏃‍♀️ I’m currently working on living well under much pressure
 - 📫 How to reach me: persdre@gmail.com
   
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
