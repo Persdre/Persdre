@@ -1,4 +1,4 @@
-### Hi there! I am [Qian](https://qian.onrender.com/)
+### Hi there!
 
 - 🏃‍♀️ I’m currently working on living well under much pressure
 - 📫 How to reach me: persdre@gmail.com
