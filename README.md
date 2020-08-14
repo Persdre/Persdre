@@ -1,4 +1,4 @@
-### Hi there!
+### Hi there, I am Qian!
 
 - 🏃‍♀️ I’m currently working on living well under much pressure
 - 📫 How to reach me: persdre@gmail.com
