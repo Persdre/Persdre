@@ -1,6 +1,6 @@
 ### Hi there, I am Qian!
 
-- 🏃‍♀️ I’m currently looking for my love.
+- 🏃‍♀️ I’m currently keeping work-work balance.
 - 📫 How to reach me: to see my website 👀
   
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
