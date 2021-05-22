@@ -1,4 +1,4 @@
-### Hi there, I am Qian! You can call me Renan too :)
+### Hi there, I am Qian!
 
 - 🏃‍♀️ I’m currently keeping work-work balance.
 - 📫 How to reach me: to see my website 👀
