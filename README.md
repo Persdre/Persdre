@@ -1,6 +1,6 @@
 ### Hi there, I am Qian!
 
-- 🏃‍♀️ I’m currently keeping work-work balance.
+- 🏃‍♀️ I’m currently keeping study-work balance.
 - 📫 How to reach me: to see my website 👀
 
 ![](https://komarev.com/ghpvc/?username=persdre)
