@@ -1,7 +1,9 @@
 ### Hi there, I am Qian!
 
-- 🏃‍♀️ I’m currently keeping study-leisure balance.
-- 📫 How to reach me: to see my website 👀
+- I am currently keeping work-life balance.
+- I am reviewing music theory. I Hope to become a original musician after this summer.
+- How to reach me: to see my website.
+
 
 ![](https://komarev.com/ghpvc/?username=persdre)
 <br/>
