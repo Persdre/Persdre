@@ -1,7 +1,7 @@
 ### Hi there, I am Qian!
 
 - I am currently keeping work-life balance.
-- I am reviewing music theory. I Hope to become a original musician after this summer.
+- I am reviewing music theory. I hope to become a original musician after this summer.
 - How to reach me: to see my website.
 
 
