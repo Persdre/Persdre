@@ -1,7 +1,7 @@
 ### Hi there, I am Qian!
 
 - I am currently keeping work-life balance.
-- Besides computer science, I love music and Chinese astrology theory.
+- Besides computer science, I love music and .
 - How to reach me: to see my website.
 
 
