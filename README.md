@@ -2,7 +2,8 @@
 
 - I am currently keeping work-life balance.
 - Besides computer science, I love music, dogs, and talking to people.
-- How to reach me: to see my website.
+- Computer science is science, not engineering. 
+- How to reach me: You can drop me emails at persdre@gmail.com
 
 
 ![](https://komarev.com/ghpvc/?username=persdre)
