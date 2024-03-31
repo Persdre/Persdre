@@ -1,6 +1,6 @@
 ### Hi there, I am Qian!
 
-- I am currently keeping work-life balance.
+- My personal website is at https://persdre.github.io/.
 - Besides computer science, I love music, dogs, and talking to people.
 - Computer science is science, not engineering. 
 - How to reach me: You can drop me emails at persdre@gmail.com
