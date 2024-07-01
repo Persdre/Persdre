@@ -1,9 +1,9 @@
 ### Hi there, I am Qian!
 
+- I am a second-year Ph.D. candidate at National University of Singapore, supervised by Prof. Bingsheng He. My research interests lie in LLM agents and cryptocurrency now. 
 - My personal website is at https://persdre.github.io/.
-- Besides computer science, I love music, dogs, and talking to people.
-- Computer science is science, not engineering. 
 - How to reach me: You can drop me emails at persdre@gmail.com
+- I am open to collaboration opportunities.
 
 
 ![](https://komarev.com/ghpvc/?username=persdre)
