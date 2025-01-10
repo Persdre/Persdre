@@ -3,7 +3,6 @@
 - I am a third-year CS Ph.D. candidate at National University of Singapore, fortunately supervised by Prof. Bingsheng He. My research interests lie in LLM agents, LLM reasoning and interpretability, and cryptocurrency now. I won research achievement award this year by NUS.
 - My personal website is at https://persdre.github.io/.
 - How to reach me: You can drop me emails at persdre@gmail.com
-- A fun fact about me is that my family has three poodles.
 
 ![](https://komarev.com/ghpvc/?username=persdre)
 <br/>
