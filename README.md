@@ -1,6 +1,6 @@
 ### Hi there, I am Qian!
 
-- I am a third-year CS Ph.D. candidate at National University of Singapore, fortunately supervised by Prof. Bingsheng He. My research interests lie in LLM agents, LLM reasoning and interpretability, and cryptocurrency now. 
+- I am a third-year CS Ph.D. candidate at National University of Singapore, fortunately supervised by Prof. Bingsheng He. My research interests lie in LLM agents, LLM reasoning, LLM evaluation, and cryptocurrency now. 
 - My personal website is at https://persdre.github.io/.
 - How to reach me: You can drop me emails at persdre@gmail.com
 
