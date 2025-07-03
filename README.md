@@ -19,7 +19,7 @@ Here are the papers I wrote in 2024.
 - [19/08/2024] **MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs** *ACL 2025 Findings* [[paper](https://arxiv.org/abs/2408.09955)] [[code](https://github.com/Xtra-Computing/MegaAgent)]
 - [18/06/2024] **CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading** *EMNLP 2024* [[paper](https://arxiv.org/abs/2408.09600)] [[code](https://github.com/Xtra-Computing/CryptoTrade)]
 
-Here are the paper (also my first paper) I wrote in 2023.
+Here is the paper (also my first paper) I wrote in 2023.
 
 - [28/09/2023] **EX-Graph: A Pioneering Dataset Bridging Ethereum and X** *ICLR 2024* [[paper](https://openreview.net/pdf?id=juE0rWGCJW)] [[code](https://github.com/Persdre/EX-Graph)]
 
