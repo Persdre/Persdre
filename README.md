@@ -16,7 +16,7 @@ Here are the papers I wrote in 2025.
 
 Here are the papers I wrote in 2024. 
 
-- [20/11/2024] **Can LLM Simulations Truly Reflect Humanity? A Deep Dive** *ICLR 2025 BlogPost Track* [[paper](https://openreview.net/forum?id=dMrhmQdrdW)]
+- [20/11/2024] **Can LLM Simulations Truly Reflect Humanity? A Deep Dive** *ICLR 2025 BlogPost* [[paper](https://openreview.net/forum?id=dMrhmQdrdW)]
 - [16/10/2024] **Exploring LLM Cryptocurrency Trading Through Fact-Subjectivity Aware Reasoning** *ICLR 2025 Financial AI Workshop* [[paper](https://arxiv.org/abs/2410.12464)]
 - [19/08/2024] **MegaAgent: A Large-Scale Autonomous LLM-based Multi-Agent System Without Predefined SOPs** *ACL 2025 Findings* [[paper](https://arxiv.org/abs/2408.09955)] [[code](https://github.com/Xtra-Computing/MegaAgent)]
 - [18/06/2024] **CryptoTrade: A Reflective LLM-based Agent to Guide Zero-shot Cryptocurrency Trading** *EMNLP 2024* [[paper](https://aclanthology.org/2024.emnlp-main.63/)] [[code](https://github.com/Xtra-Computing/CryptoTrade)]
