@@ -8,7 +8,7 @@
 
 Here are the papers I wrote in 2025.
 
-- [18/07/2025]  **Reasoning Models Can be Easily Hacked by Fake Reasoning Bias** *ICML 2025 MAS Workshop* [[paper](https://arxiv.org/abs/2507.13758)]
+- [18/07/2025]  **Reasoning Models Can be Easily Hacked by Fake Reasoning Bias** *arxiv* [[paper](https://arxiv.org/abs/2507.13758)]
 - [26/05/2025]  **PulseReddit: A Novel Reddit Dataset for Benchmarking MAS in High-Frequency Cryptocurrency Trading** *ICML 2025 MAS Workshop* [[paper](https://arxiv.org/abs/2506.03861)] [[code](https://github.com/7huahua/RedditDataset)]
 - [18/04/2025]  **Assessing Judging Bias in Large Reasoning Models: An Empirical Study** *COLM 2025* [[paper](https://arxiv.org/abs/2504.09946)] [[code](https://github.com/Persdre/LRM-bias-evaluation)]
 - [15/02/2025]  **AgentTaxo: Dissecting and Benchmarking Token Distribution of LLM Multi-Agent Systems** *ICML 2025 MAS Workshop* [[paper](https://openreview.net/forum?id=0iLbiYYIpC)]
